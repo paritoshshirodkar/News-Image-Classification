@@ -46,7 +46,7 @@ python Train.py --cuda
 
 ##### Make predictions using
 ```
-python Pred.py
+python Pred.py --image_dir test --model model_best.pth.tar --output_csvpath result.csv
 ```
 
 ##### Visualize the results using
@@ -65,8 +65,9 @@ python Train.py --cuda --lr 0.001
 
 ##### Make predictions using
 ```
-python Pred.py
+python Pred.py --image_dir test --model model_best.pth.tar --output_csvpath result.csv
 ```
+
 
 ##### Visualize the new results using
 ```
