@@ -74,5 +74,5 @@ python Pred.py --image_dir test --model model_best.pth.tar --output_csvpath resu
 python ResultVisualization.py
 ```
 
-##### [We have summarized the results for different improvements techiques over here](../blob/master/Results)
+##### [We have summarized the results for different improvements techiques over here](https://github.com/paritoshshirodkar/News-Image-Classification/tree/master/Results)
 
