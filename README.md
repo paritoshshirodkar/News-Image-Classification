@@ -56,7 +56,7 @@ python ResultVisualization.py
 
 ### Instructions to improve baseline using Shared Computing Cluster
 
-#### We found the model improves by changing the learning rate to 0.001
+#### We found the model gives the best accuracy by changing the learning rate to 0.001
 
 ##### Start training using
 ```
