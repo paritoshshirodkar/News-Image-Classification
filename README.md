@@ -76,3 +76,7 @@ python ResultVisualization.py
 
 ##### [We have summarized the results for different improvements techiques over here](https://github.com/paritoshshirodkar/News-Image-Classification/tree/master/Results)
 
+
+##### Pretrained models for different modifications can be found here:
+https://drive.google.com/drive/folders/1B3BxgyudFfHQcLir381gCU3gULBpfAJA?usp=sharing
+
